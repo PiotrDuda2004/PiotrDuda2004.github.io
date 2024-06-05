@@ -3630,7 +3630,7 @@ input, select, textarea {
 	   }
 		
 	   .slider .slide:nth-child(1) {
-		  background-image: url(../images/fot1.JPG);  
+		  background-image: url(../../images/fot1.jpg);  
 		  animation-delay: 0s;
 	   }
 	   
