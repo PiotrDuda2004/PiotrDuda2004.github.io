@@ -3630,7 +3630,7 @@ input, select, textarea {
 		height: 100%;
 		background-size: cover;
 		background-position: center;
-		animation: slider 55s infinite;
+		animation: slider 99s infinite;
 	   }
 		
 	   .slider .slide:nth-child(1) {
@@ -3657,6 +3657,26 @@ input, select, textarea {
 		  background-image: url(/images/fot5.JPG); 
 		  animation-delay: -44s;
 	   }
+	   .slider .slide:nth-child(6) {
+		background-image: url(/images/fot6.JPG); 
+		animation-delay: -55;
+	 }
+	 .slider .slide:nth-child(7) {
+		background-image: url(/images/fot7.JPG); 
+		animation-delay: -66;
+	 }
+	 .slider .slide:nth-child(8) {
+		background-image: url(/images/fot8.JPG); 
+		animation-delay: -77;
+	 }
+	 .slider .slide:nth-child(9) {
+		background-image: url(/images/fot9.jpg); 
+		animation-delay: -88;
+	 }
+	 .slider .slide:nth-child(10) {
+		background-image: url(/images/fot10.JPG); 
+		animation-delay: -99;
+	 }
 	   
 	   @keyframes slider {
 		0%, 18%, 100% {
