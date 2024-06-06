@@ -1967,6 +1967,8 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
+			padding-left: 5px;
+			padding-right: 5px;
 			box-shadow: none;
 			background-color: #4696e5;
 			color: #ffffff !important;
