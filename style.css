@@ -1,10 +1,13 @@
-
+body, html {
+  height: 100%;
+  margin: 0;
+}
 
 .bg {
   /* The image used */
   background-image: url("zdjecie.png");
 
-  /* Full height */
+ height: 100%;  /* Full height */
 
   /* Center and scale the image nicely */
   background-position: center;
